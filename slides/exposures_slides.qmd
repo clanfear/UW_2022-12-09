@@ -562,6 +562,7 @@ title(main = "Used gun", col.main = "yellow", adj = 0, cex.main = 2.5, line = -1
 par(mfrow = c(1,1))
 ```
 
+
 ## Probability by age 28: Cohort {.smaller}
 
 ```{r, cache = TRUE}
@@ -1161,7 +1162,7 @@ How common is gun violence where they live **now**?
 
 -   Public database of gun violence incidents
 
--   Was someone shot near respondent's residence in the last year?
+-   Was **someone shot** near respondent's residence in the last year?
 
     -   Within 250 or 1000 meters
     -   How many times?
@@ -1242,28 +1243,29 @@ gva_radius_nb |>
 
 ## Takeaways {background-image="img/joel-mott-s-rsM-AktbA-unsplash.jpg" background-opacity="0.1"}
 
--   Cohort gun use and exposure to gun violence linked to differences in macrosocial context
+-   Cohort gun use and exposure to gun violence differ by cohort macrosocial context
 
 -   Stark race and sex differences
 
--   Individual characteristics more predictive of life-course outcomes than childhood neighborhood context
+-   Individual characteristics more predictive of life-course outcomes than neighborhood context
 
 -   Shootings frequent near residences of black respondents
 
-    -   Partly explained by local disadvantage
+    -   Only partly explained by local disadvantage
 
 ## New questions {background-image="img/joel-mott-s-rsM-AktbA-unsplash.jpg" background-opacity="0.1"}
 
--   Does childhood exposure to gun violence cause adult gun carrying and use?
+-   Reproduction of gun violence: Does childhood exposure cause adult gun carrying and use?
 
--   How does residential proximity to shootings predict...
+-   Is residential proximity to shootings related to...
 
-    -   Personal exposure to gun violence?
-    -   Awareness of nearby shootings?
+    -   ... personal exposure to gun violence?
+    -   ... awareness of nearby shootings?
+    -   ... micro-spatial disadvantage?
 
--   How often and why do respondents move away to, from, and between between high gun violence neighborhoods?
+-   How often do respondents move to, from, and between between high gun violence neighborhoods?
 
-## Feedback and Questions {.smaller background-image="img/joel-mott-s-rsM-AktbA-unsplash.jpg" background-opacity="0.1"}
+## Feedback and questions {.smaller background-image="img/joel-mott-s-rsM-AktbA-unsplash.jpg" background-opacity="0.1"}
 
 Contact:
 
@@ -1278,9 +1280,7 @@ For more about the PHDCN+:
 | <https://sites.harvard.edu/phdcn/>
 | [https://doi.org/10.1007/s40865-022-00203-0](https://sites.harvard.edu/phdcn/)
 
-# Appendix {background-image="img/ben-sp-fD4AwrWv4t8-unsplash-crop.jpg" background-opacity="0.3"}
-
-## References
+## References {background-image="img/ben-sp-fD4AwrWv4t8-unsplash-crop.jpg" background-opacity="0.1"}
 
 Sampson, Kirk, & Bucci. 2022. "Cohort Profile: Project on Human Development in Chicago Neighborhoods and Its Additions (PHDCN+)." *Journal of Developmental and Life-Course Criminology* 8.
 
