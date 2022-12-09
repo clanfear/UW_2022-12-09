@@ -1,1 +1,1 @@
-[Presentation slides here](slides/exposures_slides.html)
+[Presentation slides here](https://clanfear.github.io/UW_2022-12-09/slides/exposures_slides.html)
